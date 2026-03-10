@@ -1,13 +1,13 @@
 {
   "name": "mrbot",
   "bot-account": {
-    "username": "TIM-TAM",
+    "username": "Saito-Bot",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "dirtsmp-s8vz.aternos.me",
-    "port": 62573,
+    "ip": "InceptorNetwork.aternos.me",
+    "port": 16114,
     "version": "1.21.1"
   },
   "position": {
