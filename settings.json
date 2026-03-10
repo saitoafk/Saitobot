@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "InceptorNetwork.aternos.me",
+    "port": 16114,
     "version": "1.21.1",
     "try-creative": false
   },
